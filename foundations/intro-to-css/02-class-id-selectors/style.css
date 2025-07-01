@@ -1,0 +1,18 @@
+.odd {
+    background: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigFont {
+    font-size: 24px;
+}
+
+#specialOne {
+    color: blue;
+    font-size: 36px;
+}
+
+#specialTwo {
+    background: lightgreen;
+    font-weight: bold;
+}
